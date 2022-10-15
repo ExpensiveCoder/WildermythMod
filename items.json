@@ -1,0 +1,10 @@
+[
+{
+	"id": "daveaShieldBlockBonus",
+	"stats": { "BLOCK": 10 }
+},
+{
+	"id": "daveaShieldArmorBonus",
+	"stats": { "ARMOR": 1 }
+}
+]
