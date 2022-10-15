@@ -3,5 +3,5 @@
 Files for my Wildermyth mod: 
 
 ## Features
-* Adds the following effects
+* Adds the following effects:
   
