@@ -1,10 +1,10 @@
 [
 {
-	"id": "daveaShieldBlockBonus",
+	"id": "freyaBrisingaBlockBonus",
 	"stats": { "BLOCK": 10 }
 },
 {
-	"id": "daveaShieldArmorBonus",
+	"id": "freyaBrisingaArmorBonus",
 	"stats": { "ARMOR": 1 }
 }
 ]
